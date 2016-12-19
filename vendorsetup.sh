@@ -1,0 +1,1 @@
+add_lunch_combo cm_cube_i30-userdebug
